@@ -44,7 +44,7 @@ Not 2 // Script ismini erbay-kokain yapınız.
 
 Not 3 // Paylaştığım scriptlerin 2'sininde meslek şeklinde olma sebebi mesleklerin hepsini paylaştığım scriptleri kullanarak meslekleri tamamlamanızı istemem,daha sonra farklı tür scriptlere geçeceğim.
 
-İndirme Linki : https://github.com/Erbayy/erbay-yanmeslek.git
+İndirme Linki : https://github.com/Erbayy/erbay-kokain
 
 Showcase : https://streamable.com/zrksjx
 
