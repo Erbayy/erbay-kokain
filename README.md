@@ -46,6 +46,6 @@ Not 3 // Paylaştığım scriptlerin 2'sininde meslek şeklinde olma sebebi mesl
 
 İndirme Linki : https://github.com/Erbayy/erbay-kokain
 
-Showcase : https://streamable.com/zrksjx
+Showcase : https://streamable.com/qmnpdk
 
 Ulaşabileceğiniz discord Adresim : https://discord.gg/zzNZge9syF
